@@ -1,4 +1,4 @@
 print("Data Engineering Pipeline - Main Branch")
 
 def transform_data(data):
-    return data.lower()
+    return data.upper()
